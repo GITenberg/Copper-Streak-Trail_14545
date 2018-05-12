@@ -1,0 +1,27 @@
+_repo: Copper-Streak-Trail_14545
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rhodes, Eugene Manlove
+    birthdate: 1869
+    deathdate: 1934
+    gutenberg_agent_id: '4149'
+    url: http://www.gutenberg.org/2009/agents/4149
+description: Good guys try to keep the location of a copper mine from the bad guys.
+gutenberg_issued: '2004-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14545'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- West (U.S.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+title: Copper Streak Trail
+url: http://www.gutenberg.org/ebooks/14545
